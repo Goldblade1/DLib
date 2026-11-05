@@ -104,7 +104,32 @@ Academic Project | Data Structures & Algorithms | C Programming
 
 ![Book Search](images/book-search.png)
 
+## How to Compile and Run
 
+### Prerequisites
+- GCC compiler installed on your system.
+
+### Compilation
+
+Open a terminal in the project folder and execute:
+
+```bash
+gcc digital_library.c -o digital_library
+```
+
+### Execution
+
+**Windows:**
+```bash
+digital_library.exe
+```
+
+**Linux / macOS:**
+```bash
+./digital_library
+```
+
+**Note:** Replace `main.c` with your actual C source filename if it is different.
 
 ---
 
