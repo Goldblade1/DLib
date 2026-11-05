@@ -98,6 +98,12 @@ Developed as an academic Data Structures and Algorithms laboratory project by a 
 
 Academic Project | Data Structures & Algorithms | C Programming
 
+![Main Menu](images/main-menu.png)
+
+![Book Records](images/book-records.png)
+
+![Book Search](images/book-search.png)
+
 
 
 ---
